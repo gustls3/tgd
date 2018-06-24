@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'NanumBarunpen';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 400;
     src: local('NanumBarunpen'),
         url('NanumBarunpenR.woff2') format('woff2'), 
         url('NanumBarunpenR.woff') format('woff'),
@@ -13,7 +13,7 @@
 @font-face {
     font-family: 'NanumBarunpen';
     font-style: bold;
-    font-weight: 900;
+    font-weight: 700;
     src: local('NanumBarunpen'),
         url('NanumBarunpenB.woff2') format('woff2'), 
         url('NanumBarunpenB.woff') format('woff'),
