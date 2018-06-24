@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'oC_o_Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local('oC_o_Regular'),
+        url('oC_o_Regular.woff') format('woff'),
+        url('oC_o_Regular.ttf') format('truetype'),
+        url('oC_o_Regular.otf') format('opentype'),
+        url('oC_o_Regular.eot') format('embedded-opentype');
+}
