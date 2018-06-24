@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'SDMiSaeng';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SDMiSaeng'),
+        url('SDMiSaeng.woff') format('woff'),
+        url('SDMiSaeng.ttf') format('truetype'),
+        url('SDMiSaeng.otf') format('opentype'),
+        url('SDMiSaeng.eot') format('embedded-opentype');
+}
